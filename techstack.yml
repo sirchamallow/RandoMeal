@@ -1,0 +1,601 @@
+repo_name: sirchamallow/RandoMeal
+report_id: 6253bb828ca52b752ef14bd4391fc5f9
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-29T14:42:15+00:00'
+requested_by: nitrambed
+provider: github
+branch: master
+detected_tools_count: 43
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/sirchamallow/RandoMeal
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  version: 3.0.3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile.lock
+  detection_source: Repo Metadata
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 5.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: Rails
+  description: Web development that doesn't hurt
+  website_url: http://rubyonrails.org/
+  version: 6.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/990/x57_Lorv.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: Stimulus
+  description: A modest JavaScript framework for the HTML you already have, by Basecamp
+  website_url: https://github.com/stimulusjs/stimulus/
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/8220/32970053.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Deborah MARTIN
+  last_updated_on: 2022-03-08 08:35:16.000000000 Z
+- name: PostgreSQL
+  description: A powerful, open source object-relational database system
+  website_url: http://www.postgresql.org/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.17.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/yarn.lock
+  detection_source: babel.config.js
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: Capybara
+  description: Acceptance test framework for web applications
+  website_url: http://jnicklas.github.io/capybara/
+  version: 3.36.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2595/capybara.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal
+  detection_source: Repo Metadata
+- name: Puma
+  description: A Modern, Concurrent Web Server for Ruby
+  website_url: http://puma.io/
+  version: 5.6.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/1055/favicon.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: Rails Spring
+  description: Rails application preloader
+  website_url: https://github.com/rails/spring
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Rails Testing
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Pierre LEMASSON
+  last_updated_on: 2022-03-09 09:49:01.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 4.46.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Deborah MARTIN
+  last_updated_on: 2022-03-08 08:35:16.000000000 Z
+- name: Webpacker
+  description: Use Webpack to manage app-like JavaScript modules in Rails (by Rails)
+  website_url: https://github.com/rails/webpacker
+  version: 5.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/yarn.lock
+  detection_source: yarn.lock
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: Twilio SendGrid
+  description: Email Delivery. Simplified.
+  website_url: http://sendgrid.com
+  open_source: false
+  hosted_saas: true
+  category: Communications
+  sub_category: Transactional Email
+  image_url: https://img.stackshare.io/service/43/kQ_6nwmP.jpg
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/config/environments/production.rb
+  detection_source: config/environments/production.rb
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: Bootsnap
+  description: Boot large ruby/rails apps faster, by Shopify
+  website_url: https://github.com/shopify/bootsnap
+  version: 1.10.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Ruby Utilities
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: Simple Form
+  description: Forms made easy for Rails! It's tied to a simple DSL, with no opinion
+    on markup
+  website_url: https://github.com/plataformatec/simple_form
+  version: 5.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Web Forms
+  image_url: https://img.stackshare.io/service/4124/simple1.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: Turbolinks
+  description: Makes navigating your web application faster
+  website_url: https://github.com/turbolinks/turbolinks
+  version: 5.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Ruby Utilities
+  image_url: https://img.stackshare.io/service/3028/default_ce0a839b05d39c32172761cba1f092a8433d381c.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile.lock
+  detection_source: package.json
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: autoprefixer-rails
+  description: Parse CSS and add vendor prefixes to CSS rules usingvalues from the
+    Can I Use website
+  package_url: https://rubygems.org/autoprefixer-rails
+  version: 10.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19215/default_e38d6385c75dafbe16c1c806ccf1fd483b747794.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: awesome_print
+  description: 'Great Ruby dubugging companion: pretty print Ruby objects to visualize
+    their structure'
+  package_url: https://rubygems.org/awesome_print
+  version: 1.9.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18862/default_2fe576f13c88e20e645ee0a744c045ee730bcad6.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Deborah MARTIN
+  last_updated_on: 2022-03-10 11:07:15.000000000 Z
+- name: byebug
+  description: Byebug is a Ruby debugger
+  package_url: https://rubygems.org/byebug
+  version: 11.1.3
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18849/default_887cb273c504fac90d07fc552b7b223fbb32ca39.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: dotenv-rails
+  description: Autoload dotenv in Rails
+  package_url: https://rubygems.org/dotenv-rails
+  version: 2.7.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19404/default_256f314e809c8e6655d38645e0a725102cea782b.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: font-awesome-sass
+  description: Font-Awesome SASS gem for use in Ruby projects
+  package_url: https://rubygems.org/font-awesome-sass
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19332/default_40e6914cce3b1c16bbc5956f19d9789bde49a3c6.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Deborah MARTIN
+  last_updated_on: 2022-03-10 11:07:15.000000000 Z
+- name: jbuilder
+  description: Create JSON structures via a Builder-style DSL
+  package_url: https://rubygems.org/jbuilder
+  version: 2.11.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19105/default_fca7ffebc4c078263714788a3e4853bf74bde297.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: listen
+  description: The Listen gem listens to file modifications and notifies you about
+    the changes
+  package_url: https://rubygems.org/listen
+  version: 3.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18942/default_a51418802dbfb428c729400211798b5046fe4140.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: pg
+  description: Pg is the Ruby interface to the {PostgreSQL RDBMS}[http://www.postgresql.org/]
+  package_url: https://rubygems.org/pg
+  version: 1.3.3
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18855/default_d343d9a7c573fa5dcbeb4d3c43d2ffe4afa82cc1.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: pry-byebug
+  description: Combine 'pry' with 'byebug'
+  package_url: https://rubygems.org/pry-byebug
+  version: 3.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18848/default_1c2935fa69cec14d38adad302e002464101cd71f.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: pry-rails
+  description: Use Pry as your rails console
+  package_url: https://rubygems.org/pry-rails
+  version: 0.3.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19013/default_3667c8b28d9ec2ad93884ef523ec8f357774f78e.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: rack-mini-profiler
+  description: Profiling toolkit for Rack applications with Rails integration
+  package_url: https://rubygems.org/rack-mini-profiler
+  version: 2.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: sass-rails
+  description: Sass adapter for the Rails asset pipeline
+  package_url: https://rubygems.org/sass-rails
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18876/default_d416e715a80ce80ae31b87cff032f5873c8a9d2a.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Deborah MARTIN
+  last_updated_on: 2022-03-10 11:07:15.000000000 Z
+- name: selenium-webdriver
+  description: WebDriver is a tool for writing automated tests of websites
+  package_url: https://rubygems.org/selenium-webdriver
+  version: 4.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18901/default_f0ad2b1ffbe10fdd866f9f8e5f812599d9e8085b.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: simple_form
+  description: Forms made easy!
+  package_url: https://rubygems.org/simple_form
+  version: 5.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18988/default_c2edad6777219a9d77730c33c0ffc3c4598d107f.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: spring
+  description: Preloads your application so things like console
+  package_url: https://rubygems.org/spring
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19382/default_b8d34ca81aebc76c0b551b666a1d21df7e697544.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Pierre LEMASSON
+  last_updated_on: 2022-03-09 09:49:01.000000000 Z
+- name: tzinfo-data
+  description: TZInfo::Data contains data from the IANA Time Zone database packaged
+    as Ruby modules for use with TZInfo
+  package_url: https://rubygems.org/tzinfo-data
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19516/default_07037590725b871de29c1d2ebb4610950e953355.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: web-console
+  description: A debugging tool for your Ruby on Rails applications
+  package_url: https://rubygems.org/web-console
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: webdrivers
+  description: Run Selenium tests more easily with install and updates for all supported
+    webdrivers
+  package_url: https://rubygems.org/webdrivers
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19420/default_16904f646648128b821ee8aabb068fa7a1b5025f.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Charles Moreau
+  last_updated_on: 2022-02-28 16:39:52.000000000 Z
+- name: wicked_pdf
+  description: Wicked PDF uses the shell utility wkhtmltopdf to serve a PDF file to
+    a user from HTML
+  package_url: https://rubygems.org/wicked_pdf
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Pierre LEMASSON
+  last_updated_on: 2022-03-07 08:23:48.000000000 Z
+- name: wkhtmltopdf-binary
+  description: Provides binaries for WKHTMLTOPDF project in an easily accessible package
+  package_url: https://rubygems.org/wkhtmltopdf-binary
+  version: 0.12.6
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19736/default_e080e8884478ab7384668fbd6d4a7b960d196e3d.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Pierre LEMASSON
+  last_updated_on: 2022-03-07 08:23:48.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 3.3.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Deborah MARTIN
+  last_updated_on: 2022-03-08 08:35:16.000000000 Z
+- name: webpack-dev-server
+  description: Serves a webpack app. Updates the browser on changes
+  package_url: https://www.npmjs.com/webpack-dev-server
+  version: 3.11.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
+  detection_source_url: https://github.com/sirchamallow/RandoMeal/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Deborah MARTIN
+  last_updated_on: 2022-03-08 08:35:16.000000000 Z
