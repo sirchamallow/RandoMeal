@@ -3,23 +3,23 @@
 ## Tech Stack
 sirchamallow/RandoMeal is built on the following main stack:
 
-- [Twilio SendGrid](http://sendgrid.com) – Transactional Email
-- [Ruby](https://www.ruby-lang.org) – Languages
-- [Rails](http://rubyonrails.org/) – Frameworks (Full Stack)
-- [PostgreSQL](http://www.postgresql.org/) – Databases
-- [Puma](http://puma.io/) – Web Servers
-- [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
+- [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
+- [Rails](http://rubyonrails.org/) – Frameworks (Full Stack)
+- [Stimulus](https://github.com/stimulusjs/stimulus/) – Javascript UI Libraries
+- [PostgreSQL](http://www.postgresql.org/) – Databases
+- [Babel](http://babeljs.io/) – JavaScript Compilers
+- [Capybara](http://jnicklas.github.io/capybara/) – Testing Frameworks
+- [Puma](http://puma.io/) – Web Servers
 - [Rails Spring](https://github.com/rails/spring) – Rails Testing
 - [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- [Capybara](http://jnicklas.github.io/capybara/) – Testing Frameworks
-- [Babel](http://babeljs.io/) – JavaScript Compilers
-- [Turbolinks](https://github.com/turbolinks/turbolinks) – Ruby Utilities
-- [Simple Form](https://github.com/plataformatec/simple_form) – Web Forms
-- [Yarn](https://yarnpkg.com/) – Front End Package Manager
 - [Webpacker](https://github.com/rails/webpacker) – JS Build Tools / JS Task Runners
+- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [Twilio SendGrid](http://sendgrid.com) – Transactional Email
 - [Bootsnap](https://github.com/shopify/bootsnap) – Ruby Utilities
-- [Stimulus](https://github.com/stimulusjs/stimulus/) – Javascript UI Libraries
+- [Simple Form](https://github.com/plataformatec/simple_form) – Web Forms
+- [Turbolinks](https://github.com/turbolinks/turbolinks) – Ruby Utilities
 
 Full tech stack [here](/techstack.md)
 
@@ -29,23 +29,23 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 sirchamallow/RandoMeal is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/43/kQ_6nwmP.jpg' alt='Twilio SendGrid'/> [Twilio SendGrid](http://sendgrid.com) – Transactional Email
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/990/x57_Lorv.png' alt='Rails'/> [Rails](http://rubyonrails.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1055/favicon.png' alt='Puma'/> [Puma](http://puma.io/) – Web Servers
-- <img width='25' height='25' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'/> [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'/> [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/990/x57_Lorv.png' alt='Rails'/> [Rails](http://rubyonrails.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/8220/32970053.png' alt='Stimulus'/> [Stimulus](https://github.com/stimulusjs/stimulus/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/service/2595/capybara.png' alt='Capybara'/> [Capybara](http://jnicklas.github.io/capybara/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/1055/favicon.png' alt='Puma'/> [Puma](http://puma.io/) – Web Servers
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Rails Spring'/> [Rails Spring](https://github.com/rails/spring) – Rails Testing
 - <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/2595/capybara.png' alt='Capybara'/> [Capybara](http://jnicklas.github.io/capybara/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
-- <img width='25' height='25' src='https://img.stackshare.io/service/3028/default_ce0a839b05d39c32172761cba1f092a8433d381c.png' alt='Turbolinks'/> [Turbolinks](https://github.com/turbolinks/turbolinks) – Ruby Utilities
-- <img width='25' height='25' src='https://img.stackshare.io/service/4124/simple1.png' alt='Simple Form'/> [Simple Form](https://github.com/plataformatec/simple_form) – Web Forms
-- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Webpacker'/> [Webpacker](https://github.com/rails/webpacker) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/43/kQ_6nwmP.jpg' alt='Twilio SendGrid'/> [Twilio SendGrid](http://sendgrid.com) – Transactional Email
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Bootsnap'/> [Bootsnap](https://github.com/shopify/bootsnap) – Ruby Utilities
-- <img width='25' height='25' src='https://img.stackshare.io/service/8220/32970053.png' alt='Stimulus'/> [Stimulus](https://github.com/stimulusjs/stimulus/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/4124/simple1.png' alt='Simple Form'/> [Simple Form](https://github.com/plataformatec/simple_form) – Web Forms
+- <img width='25' height='25' src='https://img.stackshare.io/service/3028/default_ce0a839b05d39c32172761cba1f092a8433d381c.png' alt='Turbolinks'/> [Turbolinks](https://github.com/turbolinks/turbolinks) – Ruby Utilities
 
 Full tech stack [here](/techstack.md)
 
@@ -56,7 +56,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [sirchamallow/RandoMeal](https://github.com/sirchamallow/RandoMeal)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|43<br/>Tools used|01/29/24 <br/>Report generated|
+|43<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
